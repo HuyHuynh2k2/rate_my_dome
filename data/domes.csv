@@ -1,0 +1,6 @@
+id,name,address,city,state,zip_code,type,description,construction_year
+1,Tacoma Dome,2727 E D St,Tacoma,WA,98421,Event,A multi-purpose venue in Tacoma,1983
+2,Seattle Dome,123 Dome Ave,Seattle,WA,98101,Geodesic,A geodesic dome used for various events,1990
+3,Bellevue Dome,456 Dome Blvd,Bellevue,WA,98004,Residential,A dome home with modern amenities,2005
+4,Olympia Dome,789 Capitol Way,Olympia,WA,98501,Agricultural,A greenhouse dome for urban farming,2010
+5,Everett Dome,101 Dome Circle,Everett,WA,98201,Industrial,A storage dome for industrial equipment,2018
